@@ -11,7 +11,7 @@ Understanding the temperature patterns in specific regions is essential for anal
 
 Thanks to the University of Dayton, the dataset containing daily level average temperature values for Tashkent-Dushanbe and other major cities is available [here](https://dataset-link-here). The data is available for research and non-commercial purposes only. Please refer to this page for the license.
 
-![Photo by James Day on Unsplash](https://unsplash.com/photos/sample-photo-id)
+![Photo by James Day on Unsplash]
 
 ## Dataset Description
 
@@ -23,7 +23,7 @@ To explore and analyze the temperature data for Uzbekistan and Tashkent-Dushanbe
 
 ## Project Directory
 
-```
+
 
 ## Getting Started
 
@@ -43,4 +43,4 @@ Photo by James Day on Unsplash: [Unsplash](https://unsplash.com/photos/sample-ph
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
+
