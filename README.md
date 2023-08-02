@@ -1,4 +1,4 @@
-# Uzbekistan and Tashkent-Dushanbe Temperature Analysis
+#Temperature Analysis
 
 ![Uzbekistan and Tashkent-Dushanbe Temperature Analysis]
 
